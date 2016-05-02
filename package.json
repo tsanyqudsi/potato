@@ -1,0 +1,23 @@
+{
+  "name": "potatocss",
+  "version": "0.0.1",
+  "description": "CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsanyqudsi/potato.git"
+  },
+  "author": "Muhammad Tsani Qudsi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsanyqudsi/potato/issues"
+  },
+  "homepage": "https://github.com/tsanyqudsi/potato#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-stylus": "^2.3.1"
+  }
+}

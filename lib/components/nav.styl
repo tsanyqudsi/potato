@@ -1,0 +1,21 @@
+@require "../common/*"
+
+nav
+  @extend .boxed
+  min-height: 50px
+  margin: 0 auto
+  flex-direction: row
+
+  a
+    font-size: font-nav-size
+    font-weight: font-nav-weight
+    color: color-nav-font
+    text-transform: font-nav-texttransform
+    font-family: font-nav-family
+
+  #logo
+    margin-right: auto
+
+  .item
+    flex-basis: navItemWidth
+    justify-content:center
